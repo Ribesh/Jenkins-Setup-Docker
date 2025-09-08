@@ -1,5 +1,8 @@
-# Jenkins-Setup-Docker
+# Jenkins-Setup-Docker (with SonarQube)
 Jenkins-Setup-Docker
+
+## Pre-requisities
+1. Docker & Docker Compose Setup
 
 
 ## Create a directory Jenkins
